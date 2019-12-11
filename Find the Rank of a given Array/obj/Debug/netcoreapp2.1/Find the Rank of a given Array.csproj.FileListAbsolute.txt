@@ -1,0 +1,11 @@
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find the Rank of a given Array\Find the Rank of a given Array\bin\Debug\netcoreapp2.1\Find the Rank of a given Array.deps.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find the Rank of a given Array\Find the Rank of a given Array\bin\Debug\netcoreapp2.1\Find the Rank of a given Array.runtimeconfig.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find the Rank of a given Array\Find the Rank of a given Array\bin\Debug\netcoreapp2.1\Find the Rank of a given Array.runtimeconfig.dev.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find the Rank of a given Array\Find the Rank of a given Array\bin\Debug\netcoreapp2.1\Find the Rank of a given Array.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find the Rank of a given Array\Find the Rank of a given Array\bin\Debug\netcoreapp2.1\Find the Rank of a given Array.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find the Rank of a given Array\Find the Rank of a given Array\obj\Debug\netcoreapp2.1\Find the Rank of a given Array.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find the Rank of a given Array\Find the Rank of a given Array\obj\Debug\netcoreapp2.1\Find the Rank of a given Array.AssemblyInfoInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find the Rank of a given Array\Find the Rank of a given Array\obj\Debug\netcoreapp2.1\Find the Rank of a given Array.AssemblyInfo.cs
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find the Rank of a given Array\Find the Rank of a given Array\obj\Debug\netcoreapp2.1\Find the Rank of a given Array.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find the Rank of a given Array\Find the Rank of a given Array\obj\Debug\netcoreapp2.1\Find the Rank of a given Array.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Find the Rank of a given Array\Find the Rank of a given Array\obj\Debug\netcoreapp2.1\Find the Rank of a given Array.csprojAssemblyReference.cache

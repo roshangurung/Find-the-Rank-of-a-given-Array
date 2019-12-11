@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the Rank of a given Array", "Find the Rank of a given Array\Find the Rank of a given Array.csproj", "{8E4F769B-A64F-49D0-AA16-25D39BF5359F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4F769B-A64F-49D0-AA16-25D39BF5359F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4F769B-A64F-49D0-AA16-25D39BF5359F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4F769B-A64F-49D0-AA16-25D39BF5359F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4F769B-A64F-49D0-AA16-25D39BF5359F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E606D4B-5104-4095-A4F8-6936EABF0AB6}
+	EndGlobalSection
+EndGlobal
